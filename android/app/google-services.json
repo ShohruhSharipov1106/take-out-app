@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80229626617",
+    "project_id": "take-out-d4a1e",
+    "storage_bucket": "take-out-d4a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80229626617:android:8d3f518c606f3c7d336828",
+        "android_client_info": {
+          "package_name": "com.example.takeout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80229626617-0cmm84beedi2ttjs9fr29m8bfktek4cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takeout",
+            "certificate_hash": "01e0c0d6f1a9b0f5a36ec7f770fd05956aad8ecc"
+          }
+        },
+        {
+          "client_id": "80229626617-egdfackn69b5955b6mhmmpbk7q7cnn8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgK4RAi9bns-3XG_RUyRyb1oz4bxaXR50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80229626617-egdfackn69b5955b6mhmmpbk7q7cnn8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
